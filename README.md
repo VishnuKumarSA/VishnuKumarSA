@@ -133,20 +133,19 @@ Ram Sethu Travels, Kodaikanal Travels
 </tr>
 </table>
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuKumarSA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKumarSA&layout=compact&langs_count=8&theme=radical"/>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=VishnuKumarSA&theme=tokyonight&hide_border=true)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=VishnuKumarSA&label=Profile%20Views&color=0e75b6&style=flat)
   
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuKumarSA&theme=radical)](https://git.io/streak-stats)
-  
-</div>
+## 💻 Contribution Graph
+
+[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VishnuKumarSA&theme=tokyo-night&hide_border=true)](https://github.com/VishnuKumarSA)
 
 ## 🎯 Core Expertise
 
@@ -176,7 +175,6 @@ Ram Sethu Travels, Kodaikanal Travels
 | Contact | Details |
 |:---:|:---|
 | 📧 Email | [savishnukumar@gmail.com](mailto:savishnukumar@gmail.com) |
-| 📱 Phone | +91 70921 34220 |
 | 💼 LinkedIn | [vishnu-kumar-s-a](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/) |
 | 📍 Location | Madurai, Tamil Nadu, India |
 
