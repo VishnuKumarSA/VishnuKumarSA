@@ -137,7 +137,9 @@ Ram Sethu Travels, Kodaikanal Travels
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VishnuKumarSA)]
+<a href="https://git.github.io/VishnuKumarSA">
+  <img src="https://streak-stats.demolab.com/?user=VishnuKumarSA" alt="GitHub Streak"/>
+</a>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=VishnuKumarSA&label=Profile%20Views&color=0e75b6&style=flat)
   
