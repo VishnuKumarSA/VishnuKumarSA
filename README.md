@@ -2,11 +2,12 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+5%2B+Years;PHP+%7C+Laravel+%7C+CakePHP+%7C+CodeIgniter;Angular+%7C+React+%7C+JavaScript;REST+API+%26+Performance+Optimization;Open+to+New+Opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=PHP+Full+Stack+Developer+%7C+5%2B+Years;Laravel+%7C+CakePHP+%7C+CodeIgniter;Angular+%7C+React+%7C+JavaScript;Performance+Optimization+%26+Deep+Debugging;Open+to+New+Opportunities+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/)
 [![Email](https://img.shields.io/badge/-savishnukumar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:savishnukumar@gmail.com)
 [![Location](https://img.shields.io/badge/-Madurai%2C_TN_(Open_to_Relocate)-28a745?style=flat&logo=google-maps&logoColor=white)](#)
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp_Certified-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](#)
 
 </div>
 
@@ -14,15 +15,17 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with **5+ years** of experience — strong PHP backend foundation with hands-on frontend exposure across Angular and React. My strength is in **performance optimization and system architecture** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
+I'm a **PHP Full Stack Developer** with **5+ years** of experience building scalable web applications — strong PHP backend foundation with frontend exposure in Angular and React. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
 
 - 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (CakePHP + Angular)
-- 🎯 Passionate about building **end-to-end solutions** — from REST API design to frontend UI
-- ⚡ Deep expertise in **MySQL optimization, Redis caching, and legacy system migration**
-- 🛒 Hands-on with **Razorpay, Amazon, Walmart & Etsy** integrations
+- 🎯 Passionate about **PHP full stack development** — REST APIs, database tuning, and clean UI integration
+- ⚡ Strong in **deep debugging, query optimization, MySQL & PostgreSQL performance**
+- 🛒 Worked on **Amazon, Walmart & Etsy** marketplace API integrations
+- 💳 Explored and assisted with **Razorpay** payment gateway integration
 - 🌱 Actively building in **React** — custom hooks, CRUD apps, component architecture
+- 🏅 **FreeCodeCamp** certified
 - 📍 Based in **Madurai, TN** — open to relocating to **Chennai, Bengaluru, or Kerala**
-- 💬 Ask me about **Laravel, CakePHP, API design, or database performance tuning**
+- 💬 Ask me about **CakePHP, Laravel, query optimization, or deep debugging**
 
 ---
 
@@ -57,7 +60,7 @@ I'm a **Full Stack Developer** with **5+ years** of experience — strong PHP ba
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Payments & Integrations
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Razorpay](https://img.shields.io/badge/Razorpay_(Explored)-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 ![Amazon](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 </div>
@@ -72,37 +75,38 @@ class VishnuKumar {
     public array $experience = [
 
         [
-            'company'      => 'Kliotech LLP',
-            'role'         => 'PHP Programmer',
-            'duration'     => 'Mar 2024 – Dec 2024',
-            'project'      => 'DiveShop360 — Enterprise POS & Inventory System',
-            'stack'        => ['CakePHP', 'Angular', 'MySQL', 'Redis', 'Node.js'],
-            'highlights'   => [
+            'company'    => 'Kliotech LLP',
+            'role'       => 'PHP Programmer',
+            'duration'   => 'Mar 2024 – Dec 2024',
+            'project'    => 'DiveShop360 — Enterprise POS & Inventory System',
+            'stack'      => ['CakePHP', 'Angular', 'MySQL', 'Redis', 'Node.js'],
+            'highlights' => [
                 '⚡ Optimized admin dashboard: 30s → 5s load time (6x faster)',
                 '🔧 Implemented Redis caching, eager loading & query indexing',
-                '🔄 Zero-downtime migration of multi-store legacy data',
+                '🗂️ Assisted in multi-store data migration tasks',
+                '🐛 Deep debugging of complex performance bottlenecks',
                 '📈 Improved overall system stability by 20%',
             ],
         ],
 
         [
-            'company'      => 'HATSM Software LLP',
-            'role'         => 'Software Engineer',
-            'duration'     => 'May 2022 – Feb 2024',
-            'highlights'   => [
+            'company'    => 'HATSM Software LLP',
+            'role'       => 'Software Engineer',
+            'duration'   => 'May 2022 – Feb 2024',
+            'highlights' => [
                 '🛒 Built REST APIs for Amazon, Walmart & Etsy marketplace integrations',
-                '💳 Integrated Razorpay payment gateway end-to-end',
+                '💳 Explored and assisted with Razorpay payment gateway integration',
                 '🏪 Developed multi-store eCommerce management platform',
             ],
         ],
 
         [
-            'company'      => 'Shriyaditha Graphics Universe',
-            'role'         => 'PHP Programmer',
-            'duration'     => 'Aug 2020 – May 2022',
-            'highlights'   => [
+            'company'    => 'Shriyaditha Graphics Universe',
+            'role'       => 'PHP Programmer',
+            'duration'   => 'Aug 2020 – May 2022',
+            'highlights' => [
                 '🌐 Built and maintained client websites in Core PHP & Laravel',
-                '🚀 Migrated legacy Core PHP projects to modern frameworks',
+                '🔄 Worked on framework migration from Core PHP to Laravel/CodeIgniter',
             ],
         ],
 
@@ -126,9 +130,9 @@ Multi-store POS platform — backend in CakePHP, frontend in Angular.
 
 - **6x performance boost**: dashboard load time 30s → 5s
 - Redis caching + query optimization + DB indexing
-- Multi-store data migration with zero downtime
-- Real-time inventory & reporting
-- Angular frontend integration with CakePHP APIs
+- Assisted in multi-store data migration
+- Deep debugging of performance bottlenecks
+- Angular frontend integrated with CakePHP REST APIs
 
 **Tech:** CakePHP · Angular · MySQL · Redis · Node.js
 
@@ -168,9 +172,9 @@ Feature-rich social network built in Laravel.
 ### 🚗 Travel Websites
 **Client Projects (Ram Sethu & Kodaikanal Travels)**
 
-- Core PHP → Laravel/CodeIgniter migration
+- Framework migration from Core PHP to Laravel/CodeIgniter
 - RESTful API development
-- Performance & SEO improvements
+- Performance improvements
 
 **Tech:** PHP · Laravel · CodeIgniter
 
@@ -184,14 +188,20 @@ Feature-rich social network built in Laravel.
 
 <div align="center">
 
-| Backend Development | Frontend | Database & Caching | Integrations |
+| Backend Development | Frontend | Database | Strengths |
 |:---:|:---:|:---:|:---:|
-| Laravel · CakePHP · CodeIgniter | Angular (hands-on) | MySQL Query Optimization | Razorpay Payment Gateway |
-| REST API Design & Development | React (active learning) | Redis Caching | Amazon SP-API |
-| Legacy System Migration | JavaScript · jQuery | DB Indexing & Profiling | Walmart & Etsy APIs |
-| Multi-Store POS Systems | HTML · CSS | Eager Loading | Webhook Handling |
+| Laravel · CakePHP · CodeIgniter | Angular (hands-on) | MySQL & PostgreSQL | Deep Debugging |
+| REST API Design & Development | React (active learning) | Redis Caching | Performance Optimization |
+| PHP Full Stack Development | JavaScript · jQuery | Query Profiling & Indexing | Problem Solving |
+| Multi-Store POS & eCommerce | HTML · CSS | Eager Loading | Legacy Code Analysis |
 
 </div>
+
+---
+
+## 🏅 Certifications
+
+- 🟠 **FreeCodeCamp** — Relational Database (PostgreSQL)
 
 ---
 
@@ -225,6 +235,6 @@ Feature-rich social network built in Laravel.
 
 <div align="center">
 
-*"First make it work. Then make it fast."*
+*"Don't just fix the bug — understand why it happened."*
 
 </div>
