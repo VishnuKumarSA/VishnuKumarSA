@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=PHP+Full+Stack+Developer+%7C+5%2B+Years;Laravel+%7C+CakePHP+%7C+CodeIgniter;Angular+%7C+React+%7C+JavaScript;Performance+Optimization+%26+Deep+Debugging;Open+to+New+Opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+5+Years;Laravel+%7C+CakePHP+%7C+CodeIgniter;Angular+%7C+React+%7C+JavaScript;Performance+Optimization+%26+Deep+Debugging;Open+to+New+Opportunities+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/)
 [![Email](https://img.shields.io/badge/-savishnukumar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:savishnukumar@gmail.com)
@@ -15,17 +15,17 @@
 
 ## 🚀 About Me
 
-I'm a **PHP Full Stack Developer** with **5+ years** of experience building scalable web applications — strong PHP backend foundation with frontend exposure in Angular and React. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
+I'm a **Software Developer** with **5 years** of experience building scalable web applications across backend and frontend — PHP (Laravel, CakePHP, CodeIgniter) on the backend, Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
 
 - 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (CakePHP + Angular)
-- 🎯 Passionate about **PHP full stack development** — REST APIs, database tuning, and clean UI integration
+- 🎯 Passionate about **software development** — REST APIs, database tuning, and clean UI integration
 - ⚡ Strong in **deep debugging, query optimization, MySQL & PostgreSQL performance**
 - 🛒 Worked on **Amazon, Walmart & Etsy** marketplace API integrations
 - 💳 Explored and assisted with **Razorpay** payment gateway integration
 - 🌱 Actively building in **React** — custom hooks, CRUD apps, component architecture
 - 🏅 **FreeCodeCamp** certified
 - 📍 Based in **Madurai, TN** — open to relocating to **Chennai, Bengaluru, or Kerala**
-- 💬 Ask me about **CakePHP, Laravel, query optimization, or deep debugging**
+- 💬 Ask me about **software architecture, query optimization, or deep debugging**
 
 ---
 
@@ -42,7 +42,7 @@ I'm a **PHP Full Stack Developer** with **5+ years** of experience building scal
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React_(Learning)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,7 +76,7 @@ class VishnuKumar {
 
         [
             'company'    => 'Kliotech LLP',
-            'role'       => 'PHP Programmer',
+            'role'       => 'Software Engineer',
             'duration'   => 'Mar 2024 – Dec 2024',
             'project'    => 'DiveShop360 — Enterprise POS & Inventory System',
             'stack'      => ['CakePHP', 'Angular', 'MySQL', 'Redis', 'Node.js'],
@@ -102,7 +102,7 @@ class VishnuKumar {
 
         [
             'company'    => 'Shriyaditha Graphics Universe',
-            'role'       => 'PHP Programmer',
+            'role'       => 'Software Developer',
             'duration'   => 'Aug 2020 – May 2022',
             'highlights' => [
                 '🌐 Built and maintained client websites in Core PHP & Laravel',
@@ -146,7 +146,7 @@ Centralized multi-store management for a US-based retailer.
 
 - Amazon, Walmart & Etsy API integrations
 - Centralized product & inventory sync
-- Custom PHP admin panel
+- Custom admin panel
 
 **Tech:** WordPress · Core PHP · REST APIs
 
@@ -190,10 +190,10 @@ Feature-rich social network built in Laravel.
 
 | Backend Development | Frontend | Database | Strengths |
 |:---:|:---:|:---:|:---:|
-| Laravel · CakePHP · CodeIgniter | Angular (hands-on) | MySQL & PostgreSQL | Deep Debugging |
-| REST API Design & Development | React (active learning) | Redis Caching | Performance Optimization |
-| PHP Full Stack Development | JavaScript · jQuery | Query Profiling & Indexing | Problem Solving |
-| Multi-Store POS & eCommerce | HTML · CSS | Eager Loading | Legacy Code Analysis |
+| Laravel · CakePHP · CodeIgniter | Angular · React | MySQL & PostgreSQL | Deep Debugging |
+| REST API Design & Development | JavaScript · jQuery | Redis Caching | Performance Optimization |
+| Software Development | HTML · CSS | Query Profiling & Indexing | Problem Solving |
+| Multi-Store POS & eCommerce | Component Architecture | Eager Loading | Legacy Code Analysis |
 
 </div>
 
