@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** with **5 years** of experience building scalable web applications across backend and frontend — PHP (Laravel, CakePHP, CodeIgniter) on the backend, Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
+I'm a **Software Developer** with **5 years** of experience building scalable web applications across backend and frontend — **Laravel** as my primary backend framework (also working with CakePHP, CodeIgniter), Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
 
-- 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (CakePHP + Angular)
+- 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (Laravel, CakePHP, Node.js, Angular, React)
 - 🎯 Passionate about **software development** — REST APIs, database tuning, and clean UI integration
 - ⚡ Strong in **deep debugging, query optimization, MySQL & PostgreSQL performance**
 - 🛒 Worked on **Amazon, Walmart & Etsy** marketplace API integrations
@@ -34,8 +34,8 @@ I'm a **Software Developer** with **5 years** of experience building scalable we
 <div align="center">
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -69,51 +69,73 @@ I'm a **Software Developer** with **5 years** of experience building scalable we
 
 ## 💼 Experience
 
-```php
-class VishnuKumar {
+<table>
+<tr>
+<td width="15%" valign="top">
 
-    public array $experience = [
+**Mar 2024 – Dec 2024**
 
-        [
-            'company'    => 'Kliotech LLP',
-            'role'       => 'Software Engineer',
-            'duration'   => 'Mar 2024 – Dec 2024',
-            'project'    => 'DiveShop360 — Enterprise POS & Inventory System',
-            'stack'      => ['CakePHP', 'Angular', 'MySQL', 'Redis', 'Node.js'],
-            'highlights' => [
-                '⚡ Optimized admin dashboard: 30s → 5s load time (6x faster)',
-                '🔧 Implemented Redis caching, eager loading & query indexing',
-                '🗂️ Assisted in multi-store data migration tasks',
-                '🐛 Deep debugging of complex performance bottlenecks',
-                '📈 Improved overall system stability by 20%',
-            ],
-        ],
+🏢 **Kliotech LLP**
+`Software Engineer`
 
-        [
-            'company'    => 'HATSM Software LLP',
-            'role'       => 'Software Engineer',
-            'duration'   => 'May 2022 – Feb 2024',
-            'highlights' => [
-                '🛒 Built REST APIs for Amazon, Walmart & Etsy marketplace integrations',
-                '💳 Explored and assisted with Razorpay payment gateway integration',
-                '🏪 Developed multi-store eCommerce management platform',
-            ],
-        ],
+</td>
+<td width="85%">
 
-        [
-            'company'    => 'Shriyaditha Graphics Universe',
-            'role'       => 'Software Developer',
-            'duration'   => 'Aug 2020 – May 2022',
-            'highlights' => [
-                '🌐 Built and maintained client websites in Core PHP & Laravel',
-                '🔄 Worked on framework migration from Core PHP to Laravel/CodeIgniter',
-            ],
-        ],
+**Project:** DiveShop360 — Enterprise POS & Inventory System
+`Laravel` `CakePHP` `Angular` `React` `Node.js` `MySQL` `Redis`
 
-    ];
+- ⚡ Optimized admin dashboard: 30s → 5s load time (6x faster)
+- 🔧 Implemented Redis caching, eager loading & query indexing
+- 🗂️ Assisted in multi-store data migration tasks
+- 🐛 Deep debugging of complex performance bottlenecks
+- 📈 Improved overall system stability by 20%
 
-}
-```
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="15%" valign="top">
+
+**May 2022 – Feb 2024**
+
+🏢 **HATSM Software LLP**
+`Software Engineer`
+
+</td>
+<td width="85%">
+
+`Laravel` `REST APIs` `Razorpay`
+
+- 🛒 Built REST APIs for Amazon, Walmart & Etsy marketplace integrations
+- 💳 Explored and assisted with Razorpay payment gateway integration
+- 🏪 Developed multi-store eCommerce management platform
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="15%" valign="top">
+
+**Aug 2020 – May 2022**
+
+🏢 **Shriyaditha Graphics Universe**
+`Software Developer`
+
+</td>
+<td width="85%">
+
+`Laravel` `CodeIgniter`
+
+- 🌐 Built and maintained client websites in Laravel
+- 🔄 Worked on framework migration to Laravel/CodeIgniter
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,15 +148,15 @@ class VishnuKumar {
 ### 🤿 DiveShop360
 **Enterprise POS & Inventory System**
 
-Multi-store POS platform — backend in CakePHP, frontend in Angular.
+Multi-store POS platform — backend in Laravel & CakePHP, frontend in Angular and React.
 
 - **6x performance boost**: dashboard load time 30s → 5s
 - Redis caching + query optimization + DB indexing
 - Assisted in multi-store data migration
 - Deep debugging of performance bottlenecks
-- Angular frontend integrated with CakePHP REST APIs
+- Angular & React frontend integrated with Laravel/CakePHP REST APIs
 
-**Tech:** CakePHP · Angular · MySQL · Redis · Node.js
+**Tech:** Laravel · CakePHP · Angular · React · Node.js · MySQL · Redis
 
 </td>
 <td width="50%">
@@ -148,7 +170,7 @@ Centralized multi-store management for a US-based retailer.
 - Centralized product & inventory sync
 - Custom admin panel
 
-**Tech:** WordPress · Core PHP · REST APIs
+**Tech:** WordPress · Laravel · REST APIs
 
 </td>
 </tr>
@@ -172,11 +194,11 @@ Feature-rich social network built in Laravel.
 ### 🚗 Travel Websites
 **Client Projects (Ram Sethu & Kodaikanal Travels)**
 
-- Framework migration from Core PHP to Laravel/CodeIgniter
+- Framework migration to Laravel/CodeIgniter
 - RESTful API development
 - Performance improvements
 
-**Tech:** PHP · Laravel · CodeIgniter
+**Tech:** Laravel · CodeIgniter
 
 </td>
 </tr>
