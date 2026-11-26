@@ -117,24 +117,7 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 
 <tr><td colspan="2"><br></td></tr>
 
-<tr>
-<td width="15%" valign="top">
 
-**Aug 2020 – May 2022**
-
-🏢 **Shriyaditha Graphics Universe**
-`Software Developer`
-
-</td>
-<td width="85%">
-
-`Laravel` `CodeIgniter`
-
-- 🌐 Built and maintained client websites in Laravel
-- 🔄 Worked on framework migration to Laravel/CodeIgniter
-
-</td>
-</tr>
 </table>
 
 ---
