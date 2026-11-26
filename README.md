@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** with **5 years** of experience building scalable web applications across backend and frontend — **Laravel** as my primary backend framework (also working with CakePHP, CodeIgniter), Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
+I'm a **Software Developer** with **3+ years** of experience building scalable web applications across backend and frontend — **Laravel** as my primary backend framework (also working with CakePHP, CodeIgniter), Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
 
 - 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (Laravel, CakePHP, Node.js, Angular, React)
 - 🎯 Passionate about **software development** — REST APIs, database tuning, and clean UI integration
