@@ -2,10 +2,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+5+Years;Laravel+%7C+CakePHP+%7C+CodeIgniter;Angular+%7C+React+%7C+JavaScript;Performance+Optimization+%26+Deep+Debugging;Open+to+New+Opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+3.5%2B+Years;PHP+%7C+Laravel+%7C+CakePHP+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+Redis;Performance+Optimization+%26+Deep+Debugging;Immediate+Joiner+%7C+Open+to+Opportunities+%F0%9F%9A%80)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/)
 [![Email](https://img.shields.io/badge/-savishnukumar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:savishnukumar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0e75b6?style=flat&logo=githubpages&logoColor=white)](https://vishnukumarsa.github.io/portfolio)
 [![Location](https://img.shields.io/badge/-Madurai%2C_TN_(Open_to_Relocate)-28a745?style=flat&logo=google-maps&logoColor=white)](#)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp_Certified-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](#)
 
@@ -15,17 +16,18 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** with **3+ years** of experience building scalable web applications across backend and frontend — **Laravel** as my primary backend framework (also working with CakePHP, CodeIgniter), Angular and React on the frontend, and hands-on with Node.js, MySQL, PostgreSQL, and Redis. My core strength is **deep debugging and performance optimization** — I reduced an admin dashboard load time from **30 seconds → 5 seconds** through query optimization, eager loading, indexing, and Redis caching.
+I'm a **Software Developer** with **3.5+ years** of experience building web applications, REST APIs, SaaS POS systems, and eCommerce platforms. **PHP and Laravel** are my primary stack, along with CakePHP, CodeIgniter, MySQL, and Redis. I focus on **debugging and performance optimization**: JOIN restructuring, indexing, eager loading, and Redis caching to keep applications fast.
 
-- 🔭 Most recent project: **DiveShop360** — Enterprise POS & Inventory System (Laravel, CakePHP, Node.js, Angular, React)
-- 🎯 Passionate about **software development** — REST APIs, database tuning, and clean UI integration
-- ⚡ Strong in **deep debugging, query optimization, MySQL & PostgreSQL performance**
-- 🛒 Worked on **Amazon, Walmart & Etsy** marketplace API integrations
-- 💳 Explored and assisted with **Razorpay** payment gateway integration
-- 🌱 Actively building in **React** — custom hooks, CRUD apps, component architecture
-- 🏅 **FreeCodeCamp** certified
-- 📍 Based in **Madurai, TN** — open to relocating to **Chennai, Bengaluru, or Kerala**
-- 💬 Ask me about **software architecture, query optimization, or deep debugging**
+- 🔭 Most recent project: **DiveShop360**, a multi-store SaaS POS and inventory platform (CakePHP, MySQL, Redis, RabbitMQ)
+- 🎯 REST API design with Laravel and CodeIgniter using Eloquent ORM
+- ⚡ **30%+ faster queries** through JOIN restructuring and indexing
+- 🛒 Marketplace API integrations: **Amazon, Walmart, Etsy, Poshmark**
+- 💳 **Razorpay** payment integration built end to end: payment flow, webhooks, error handling
+- 🌱 Building in **React**: Laravel + React e-commerce project
+- 🤖 Use **Claude** and **GitHub Copilot** for debugging, refactoring, and code review
+- 🏅 **FreeCodeCamp** Relational Database certified
+- 📍 Based in **Madurai, TN**, open to **Chennai, Bengaluru, and Hyderabad**
+- 💬 Ask me about **Laravel, query optimization, or payment and marketplace integrations**
 
 ---
 
@@ -34,14 +36,12 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 <div align="center">
 
 ### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -50,18 +50,18 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 
 ### Database & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ### Payments & Integrations
-![Razorpay](https://img.shields.io/badge/Razorpay_(Explored)-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Amazon](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 </div>
 
@@ -73,22 +73,23 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 <tr>
 <td width="15%" valign="top">
 
-**Mar 2024 – Dec 2024**
+**Mar 2024 – Dec 2025**
 
 🏢 **Kliotech LLP**
-`Software Engineer`
+`Programmer`
 
 </td>
 <td width="85%">
 
-**Project:** DiveShop360 — Enterprise POS & Inventory System
-`Laravel` `CakePHP` `Angular` `React` `Node.js` `MySQL` `Redis`
+**Project:** DiveShop360, a multi-store SaaS POS and inventory platform
+`CakePHP` `MySQL` `Redis` `RabbitMQ`
 
-- ⚡ Optimized admin dashboard: 30s → 5s load time (6x faster)
-- 🔧 Implemented Redis caching, eager loading & query indexing
-- 🗂️ Assisted in multi-store data migration tasks
-- 🐛 Deep debugging of complex performance bottlenecks
-- 📈 Improved overall system stability by 20%
+- ⚡ Improved query speed by 30%+ through JOIN restructuring and indexing
+- 🔧 Reduced page load times using Redis caching and eager loading
+- 🧾 Developed and maintained billing, stock, orders, and payment modules
+- 🔌 Built REST APIs for the purchase order module of a POS system for Charter & Travels
+- 📦 Offloaded bulk product imports to RabbitMQ background jobs; supported a Core PHP migration with data validation
+- 🐛 Delivered new POS features, fixed bugs, and resolved live production issues in weekly Agile sprints
 
 </td>
 </tr>
@@ -101,23 +102,21 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 **May 2022 – Feb 2024**
 
 🏢 **HATSM Software LLP**
-`Software Engineer`
+`Software Developer`
 
 </td>
 <td width="85%">
 
-`Laravel` `REST APIs` `Razorpay`
+`Laravel` `CodeIgniter` `REST APIs` `Razorpay`
 
-- 🛒 Built REST APIs for Amazon, Walmart & Etsy marketplace integrations
-- 💳 Explored and assisted with Razorpay payment gateway integration
-- 🏪 Developed multi-store eCommerce management platform
+- 🔌 Built REST APIs in Laravel and CodeIgniter using Eloquent ORM and Artisan CLI across 5+ modules
+- 💳 Implemented Razorpay payment integration independently: API setup, payment flow, webhooks, error handling
+- 🛒 Extended a Core PHP admin panel for product and order sync across Amazon, Walmart, Etsy, and Poshmark
+- 🏪 Customized WooCommerce sites
+- 🗣️ Designed and developed NokomisShoutBox from scratch in Laravel
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
-
-
 </table>
 
 ---
@@ -129,59 +128,50 @@ I'm a **Software Developer** with **3+ years** of experience building scalable w
 <td width="50%">
 
 ### 🤿 DiveShop360
-**Enterprise POS & Inventory System**
+**Multi-Store SaaS POS & Inventory Platform**
 
-Multi-store POS platform — backend in Laravel & CakePHP, frontend in Angular and React.
+- Billing, stock, orders, and payment modules across a multi-store setup
+- Redis caching, eager loading, query optimization, and DB indexing
+- RabbitMQ background jobs for bulk product imports
+- Supported a Core PHP migration with data validation
 
-- **6x performance boost**: dashboard load time 30s → 5s
-- Redis caching + query optimization + DB indexing
-- Assisted in multi-store data migration
-- Deep debugging of performance bottlenecks
-- Angular & React frontend integrated with Laravel/CakePHP REST APIs
-
-**Tech:** Laravel · CakePHP · Angular · React · Node.js · MySQL · Redis
+**Tech:** CakePHP · MySQL · Redis · RabbitMQ
 
 </td>
 <td width="50%">
 
-### 🏪 Nokomis Funshop
-**Multi-Store eCommerce Platform**
+### 🏪 Nokomis: Marketplace Sync & Admin Panel
+**Multi-Marketplace eCommerce Management**
 
-Centralized multi-store management for a US-based retailer.
+- Amazon, Walmart, Etsy & Poshmark API integrations
+- Product, category, and order sync
+- Customized WooCommerce sites
 
-- Amazon, Walmart & Etsy API integrations
-- Centralized product & inventory sync
-- Custom admin panel
-
-**Tech:** WordPress · Laravel · REST APIs
+**Tech:** Core PHP · WooCommerce · REST APIs
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📱 ACHYQ
-**Social Blogging Platform**
+### 🗣️ NokomisShoutBox
+**Civic Engagement Platform**
 
-Feature-rich social network built in Laravel.
+Built from scratch in Laravel. Connects citizens with City Councillors and the Mayor for suggestions, concerns, and community engagement.
 
-- Real-time newsfeed with AJAX interactions
-- User engagement analytics
-- Scalable backend architecture
-
-**Tech:** Laravel · Blade · jQuery · MySQL
+**Tech:** Laravel · MySQL
 
 </td>
 <td width="50%">
 
-### 🚗 Travel Websites
-**Client Projects (Ram Sethu & Kodaikanal Travels)**
+### 📱 ACHYQ
+**Social Blogging Platform**
 
-- Framework migration to Laravel/CodeIgniter
-- RESTful API development
-- Performance improvements
+- Posts, likes, and comments
+- AJAX interactions with jQuery
+- Responsive UI with Bootstrap
 
-**Tech:** Laravel · CodeIgniter
+**Tech:** Laravel · Blade · jQuery · MySQL
 
 </td>
 </tr>
@@ -195,10 +185,10 @@ Feature-rich social network built in Laravel.
 
 | Backend Development | Frontend | Database | Strengths |
 |:---:|:---:|:---:|:---:|
-| Laravel · CakePHP · CodeIgniter | Angular · React | MySQL & PostgreSQL | Deep Debugging |
-| REST API Design & Development | JavaScript · jQuery | Redis Caching | Performance Optimization |
-| Software Development | HTML · CSS | Query Profiling & Indexing | Problem Solving |
-| Multi-Store POS & eCommerce | Component Architecture | Eager Loading | Legacy Code Analysis |
+| Laravel · CakePHP · CodeIgniter | React · JavaScript | MySQL | Debugging |
+| REST API Design | jQuery | Redis Caching | Performance Optimization |
+| Eloquent ORM · Queues | HTML · CSS | Query Optimization & Indexing | Payment & Marketplace Integrations |
+| POS & eCommerce | | Eager Loading | Legacy Code Analysis |
 
 </div>
 
@@ -206,7 +196,7 @@ Feature-rich social network built in Laravel.
 
 ## 🏅 Certifications
 
-- 🟠 **FreeCodeCamp** — Relational Database (PostgreSQL)
+- 🟠 **FreeCodeCamp**: Relational Database Certification
 
 ---
 
@@ -229,10 +219,11 @@ Feature-rich social network built in Laravel.
 | | |
 |:---:|:---|
 | 📧 | [savishnukumar@gmail.com](mailto:savishnukumar@gmail.com) |
-| 💼 | [linkedin.com/in/vishnu-kumar-s-a](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/) |
-| 📍 | Madurai, Tamil Nadu — open to Chennai · Bengaluru · Kerala |
+| 💼 | [linkedin.com/in/vishnu-kumar-s-a-05b718216](https://linkedin.com/in/vishnu-kumar-s-a-05b718216/) |
+| 🌐 | [vishnukumarsa.github.io/portfolio](https://vishnukumarsa.github.io/portfolio) |
+| 📍 | Madurai, Tamil Nadu. Open to Chennai · Bengaluru · Hyderabad |
 
-**Available for:** Full-time roles · Contract projects · Collaborations
+**Available for:** Full-time PHP / Laravel / Backend roles. Immediate joiner.
 
 </div>
 
@@ -240,6 +231,6 @@ Feature-rich social network built in Laravel.
 
 <div align="center">
 
-*"Don't just fix the bug — understand why it happened."*
+*"Don't just fix the bug. Understand why it happened."*
 
 </div>
